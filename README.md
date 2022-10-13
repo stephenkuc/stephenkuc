@@ -3,15 +3,15 @@
 
 - I’m currently working on **classification and regression projects for simulated businesses.**
 
-- I’m currently learning **TensorFlow, Time Series, and**
+- I’m currently learning **TensorFlow, Time Series Analysis, and Boosting Methods**
 
-- I’m looking to collaborate on **fantasy football predictions**
+- I’m looking to collaborate on **any and all projects! I have wide-spanning interests, and I'm always open to learning.**
 
 - What is my current goal? **Change careers and be a full-time data scientist**
 
 - How to reach me **Stephen.kuc@gmail.com**
 
-- Fun fact **I love music, sports, and video games.**
+- Fun fact **I love music, sports, and video games. A passion project of mine is to predict fantasy football scoring year over year to help me in a league with my friends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
