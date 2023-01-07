@@ -1,15 +1,15 @@
 <h1 align="center">Hello! I'm Stephen Kuc</h1>
 <h3 align="center">Master's student in Applied Data Science</h3>
 
-- I’m currently working on **classification and regression projects for simulated businesses.**
+- I’m currently working on **Fantasy football modeling project, Analyzing personal bills and expenses in 2022 (Personal); Text Mining (school via University of San Diego, Masters of Applied Data Science) -- this is my last semester in school, and I graduate in May 2023!**
 
-- I’m currently learning **TensorFlow, Time Series Analysis, and Boosting Methods**
+- I’m currently learning **Text Mining, Time Series Analysis, TensorFlow. I am also consistently working on HackerRank, codewars and other sites to improve my coding ability **
 
-- I’m looking to collaborate on **any and all projects! I have wide-spanning interests, and I'm always open to learning.**
+- I’m looking to collaborate on **Check out my fantasy football project I am currently working on -- this is definitely a passion project of mine, and I'd welcome any collaborators who would like to help. Aside from that, any and all projects, really! Sports, music, business, sales, tech, video games, and more -- I have wide-spanning interests, and I'm always open to learning.**
 
-- What is my current goal? **Change careers and be a full-time data scientist**
+- What is my current goal? **Change careers and be a full-time data scientist in a domain that interests and excites me to be as innovative and creative as possible, while driving value for the organization I'm a part of**
 
-- How to reach me **Stephen.kuc@gmail.com**
+- How to reach me **Personal: Stephen.kuc@gmail.com; Student: skuc@sandiego.edu**
 
 - Fun fact **I love music, sports, and video games. A passion project of mine is to predict fantasy football scoring year over year to help me in a league with my friends.**
 
