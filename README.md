@@ -3,7 +3,7 @@
 
 - I’m currently working on **Fantasy football modeling project, Analyzing personal bills and expenses in 2022 (Personal); Text Mining (school via University of San Diego, Masters of Applied Data Science) -- this is my last semester in school, and I graduate in May 2023!**
 
-- I’m currently learning **Text Mining, Time Series Analysis, TensorFlow. I am also consistently working on HackerRank, codewars and other sites to improve my coding ability **
+- I’m currently learning **Text Mining, Time Series Analysis, TensorFlow. I am also consistently working on HackerRank, codewars and other sites to improve my coding ability**
 
 - I’m looking to collaborate on **Check out my fantasy football project I am currently working on -- this is definitely a passion project of mine, and I'd welcome any collaborators who would like to help. Aside from that, any and all projects, really! Sports, music, business, sales, tech, video games, and more -- I have wide-spanning interests, and I'm always open to learning.**
 
