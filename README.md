@@ -1,6 +1,5 @@
 <h1 align="center">Hello! I'm Stephen Kuc</h1>
 <h3 align="center">University of Sandiego -- Masters of Applied Data Science</h3>
-<h3 align="center">Current Sales Professional</h3>
 
 - I’m currently working on **Fantasy football modeling project, Analyzing personal bills and expenses in 2022 (Personal); Text Mining (school via University of San Diego, Masters of Applied Data Science) -- this is my last semester in school, and I graduate in May 2023!**
 
