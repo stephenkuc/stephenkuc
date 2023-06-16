@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Stephen Kuc</h1>
 <h3 align="center">University of Sandiego -- Masters of Applied Data Science</h3>
 
-- I’m currently working on **Fantasy football modeling project, Analyzing personal bills and expenses in 2022 (Personal); Classifying employee turnover and understanding what its causes are (school via University of San Diego, Masters of Applied Data Science) -- this is my last semester in school, and I graduate in May 2023!**
+- I’m currently working on **Fantasy football modeling project, Analyzing personal bills and expenses (Personal); Predicting customer spend and identifying time-series trends with account data at my current job! I've just recently graduated from the University of San Diego with a GPA of 4.0!**
 
 - I’m currently learning **Text Mining, Time Series Analysis, TensorFlow. I am also consistently working on HackerRank, codewars and other sites to improve my coding ability**
 
