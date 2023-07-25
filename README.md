@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Stephen Kuc</h1>
 <h3 align="center">University of San Diego -- Masters of Applied Data Science</h3>
 
-- I’m currently working on **Fantasy football modeling project, Analyzing personal bills and expenses (Personal); Predicting customer spend and identifying time-series trends with account data at my current job! I've just recently graduated from the University of San Diego with a GPA of 4.0!**
+- I’m currently working on **Fantasy football modeling project; Predicting customer spend and identifying time-series trends with account data at my current job! I've just recently graduated from the University of San Diego with a GPA of 4.0!**
 
-- I’m currently learning **Text Mining, Time Series Analysis, TensorFlow. I am also consistently working on HackerRank, codewars and other sites to improve my coding ability**
+- I’m currently learning **Snowflake and mastering SQL. I am also consistently working on sites like DataCamp, HackerRank, codewars and other sites to continue learning and improving my coding**
 
 - I’m looking to collaborate on **Check out my fantasy football project I am currently working on -- this is definitely a passion project of mine, and I'd welcome any collaborators who would like to help. Aside from that, any and all projects, really! Sports, music, business, sales, tech, video games, and more -- I have wide-spanning interests, and I'm always open to learning.**
 
@@ -11,7 +11,7 @@
 
 - How to reach me **Personal: Stephen.kuc@gmail.com; Student: skuc@sandiego.edu**
 
-- Fun fact **I love music, sports, and video games. A passion project of mine is to predict fantasy football scoring year over year to help me in a league with my friends.**
+- Fun fact **I love music, sports, and video games. A passion project of mine is to predict fantasy football scoring year over year to help me in a league with my friends. Check out that project's repo here!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
